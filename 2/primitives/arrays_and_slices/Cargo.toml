@@ -1,0 +1,6 @@
+[package]
+name = "arrays_and_slices"
+version = "0.1.0"
+authors = ["p150 <pavanprakash21@gmail.com>"]
+
+[dependencies]
